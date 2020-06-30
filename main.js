@@ -23,4 +23,4 @@ client.on('message', message => {
     }
 })
 
-client.login('NzI3NTEzMjU5MTI0NzE5Njg5.Xvs-6w.ZIsKMZ_2qI1rCz-b4NynKLM5TDE')
+client.login('stop snitching')
