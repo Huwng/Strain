@@ -1,0 +1,2 @@
+# Strain
+A Discord bot
