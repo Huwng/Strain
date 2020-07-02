@@ -1,4 +1,4 @@
 # Strain
-A Discord bot
+A (template) Discord bot
 # Author
 [Huwng](https://twitter.com/Huwng_)
